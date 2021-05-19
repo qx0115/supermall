@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="511px" height="338px" viewBox="0 0 511 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>bg/评论</title>
+    <desc>Created with Sketch.</desc>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-704.000000, -4261.000000)" fill="#A40000">
+            <g id="bg/评论" transform="translate(715.000000, 4270.000000)">
+                <rect id="矩形" x="0" y="0" width="489" height="301.779359" rx="6.84"></rect>
+                <path d="M89.1375105,305.49489 L99.1695105,318.87089 L99.1695105,318.87089 L71.8095105,318.87089 L81.8415105,305.49489 C83.3525616,303.480155 86.2107757,303.071839 88.2255105,304.58289 C88.5711843,304.842145 88.8782551,305.149216 89.1375105,305.49489 Z" id="Triangle" transform="translate(85.489510, 309.750890) rotate(-180.000000) translate(-85.489510, -309.750890) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

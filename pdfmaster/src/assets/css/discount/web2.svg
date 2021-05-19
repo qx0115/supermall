@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="58px" viewBox="0 0 70 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>web控件/奖励</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFDE86" offset="0%"></stop>
+            <stop stop-color="#F8BD38" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10%折扣页" transform="translate(-750.000000, -886.000000)">
+            <g id="Group-2" transform="translate(260.000000, 847.000000)">
+                <g id="web控件/奖励-copy-3" transform="translate(486.000000, 38.000000)">
+                    <circle id="Oval" stroke="#F6B01F" stroke-width="3.5" fill="url(#linearGradient-1)" fill-rule="evenodd" cx="38" cy="30" r="21.25"></circle>
+                    <circle id="Oval" stroke="#F6B01F" stroke-width="1.5" fill="url(#linearGradient-1)" fill-rule="evenodd" cx="38" cy="30" r="16.25"></circle>
+                    <circle id="Oval-Copy-10" fill="#FDB728" fill-rule="evenodd" cx="66" cy="42" r="1"></circle>
+                    <circle id="Oval-Copy-11" fill="#FDB728" fill-rule="evenodd" cx="73" cy="31.5" r="1"></circle>
+                    <circle id="Oval-Copy-9" fill="#FDB728" fill-rule="evenodd" cx="15" cy="7" r="2"></circle>
+                    <path d="M7,29 C7.55228475,29 8,29.4477153 8,30 L8,31 L9,31 C9.55228475,31 10,31.4477153 10,32 C10,32.5522847 9.55228475,33 9,33 L7.999,33 L8,34 C8,34.5522847 7.55228475,35 7,35 C6.44771525,35 6,34.5522847 6,34 L5.999,33 L5,33 C4.44771525,33 4,32.5522847 4,32 C4,31.4477153 4.44771525,31 5,31 L6,31 L6,30 C6,29.4477153 6.44771525,29 7,29 Z" id="Combined-Shape" fill="#FDBE39" fill-rule="evenodd"></path>
+                    <path d="M54,1 C54.2761424,1 54.5,1.22385763 54.5,1.5 L54.5,3.5 L56.5,3.5 C56.7761424,3.5 57,3.72385763 57,4 C57,4.27614237 56.7761424,4.5 56.5,4.5 L54.499,4.5 L54.5,6.5 C54.5,6.77614237 54.2761424,7 54,7 C53.7238576,7 53.5,6.77614237 53.5,6.5 L53.499,4.5 L51.5,4.5 C51.2238576,4.5 51,4.27614237 51,4 C51,3.72385763 51.2238576,3.5 51.5,3.5 L53.5,3.5 L53.5,1.5 C53.5,1.22385763 53.7238576,1 54,1 Z" id="Combined-Shape" fill="#FDBE39" fill-rule="evenodd"></path>
+                    <polygon id="Triangle" fill="#FDB728" fill-rule="evenodd" points="66 17.5 68 21.5 64 21.5"></polygon>
+                    <polygon id="Triangle-Copy" fill="#FDB728" fill-rule="evenodd" points="13 42 15 46 11 46"></polygon>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(6.000000, 44.000000)">
+                        <polygon id="Path" fill="#FA4B4B" fill-rule="nonzero" points="0 5 17 5 17 15 0 15 3.40003472 9.89365399"></polygon>
+                        <polygon id="Path" fill="#9C171D" fill-rule="nonzero" points="8.65850597 13.7343333 17 15 17 7 8 10.061"></polygon>
+                        <polygon id="Path" fill="#FA4B4B" fill-rule="nonzero" points="64 5 47 5 47 15 64 15 60.5999653 9.89365399"></polygon>
+                        <polygon id="Path" fill="#9C171D" fill-rule="nonzero" points="55.3416733 12.7343333 47 15 47 6 56 9.061"></polygon>
+                        <path d="M7,1.5528821 C7,1.5528821 19.8543209,0 32.5276826,0 C44.8493135,0 57,1.5528821 57,1.5528821 L55.4157435,13 C55.4157435,13 44.1057921,11.4471179 32.6024492,11.4471179 C20.6973008,11.4471179 8.58391121,13 8.58391121,13 L7,1.5528821 Z" id="Path" fill="#E22929" fill-rule="nonzero"></path>
+                    </g>
+                    <line x1="29" y1="24" x2="47" y2="24" id="Line" stroke="#F6B01F" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="29" y1="29" x2="47" y2="29" id="Line-Copy" stroke="#F6B01F" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="29" y1="34" x2="47" y2="34" id="Line-Copy-2" stroke="#F6B01F" stroke-width="2" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

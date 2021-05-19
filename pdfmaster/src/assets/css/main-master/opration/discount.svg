@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="218px" height="218px" viewBox="0 0 218 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>控件/限时折扣10%</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="53.1724674%" id="linearGradient-1">
+            <stop stop-color="#F89302" offset="0%"></stop>
+            <stop stop-color="#F18B07" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="48.7446947%" x2="0%" y2="53.0958762%" id="linearGradient-2">
+            <stop stop-color="#F89502" offset="0%"></stop>
+            <stop stop-color="#F18B07" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.55101147%" y1="31.6360528%" x2="95.6788499%" y2="70.1725996%" id="linearGradient-3">
+            <stop stop-color="#32C5FF" offset="0%"></stop>
+            <stop stop-color="#E020A0" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-4" font-family="YouSheBiaoTiHei" font-size="68" font-weight="normal" fill="#FFFFFF">
+            <tspan x="58" y="107">10</tspan>
+            <tspan x="134.5" y="107" font-size="44">%</tspan>
+        </text>
+        <filter x="-1.4%" y="-1.7%" width="105.5%" height="106.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.313585368   0 0 0 0 0.10727623   0 0 0 0 0.560575181  0 0 0 0.432883523 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-6" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" line-spacing="10" fill="#333333">
+            <tspan x="103" y="165">DISCOUNT</tspan>
+        </text>
+        <filter x="-0.7%" y="-15.0%" width="102.7%" height="140.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.976470588   0 0 0 0 0.698039216   0 0 0 0 0.00392156863  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10%折扣页-首页入口" transform="translate(-531.000000, -195.000000)">
+            <g id="web控件/限时折扣10%" transform="translate(530.000000, 194.000000)">
+                <g id="Group-4-Copy-3">
+                    <ellipse id="Oval" fill-opacity="0.100934222" fill="#000000" cx="119.5" cy="211.5" rx="32.5" ry="7.5"></ellipse>
+                    <g id="Group-5">
+                        <g id="Group-4-Copy">
+                            <path d="M112.634455,207.776264 L178.955078,124.966797 L178.955078,124.966797 L178.955078,179.177734 L113.834916,209.308936 C113.333686,209.540856 112.73935,209.322537 112.50743,208.821307 C112.348147,208.47706 112.397342,208.072328 112.634455,207.776264 Z" id="Path-4" fill="#F5CC02"></path>
+                            <polygon id="Path-6" fill="url(#linearGradient-1)" points="135.700075 179.177734 179.955078 179.177734 144.466309 168.030273"></polygon>
+                            <polygon id="Path-3" fill="#F7D703" points="179.955078 80 179.955078 179.177734 42 147.548828"></polygon>
+                            <polygon id="Path-5" fill="url(#linearGradient-2)" points="42.8913758 148.509766 179.955078 129.588867 179.955078 114.403886"></polygon>
+                            <path d="M213.061716,1.80105402 L4.63437044,61.0708121 C2.50947554,61.6750611 1.27674844,63.8874693 1.8809974,66.0123642 C1.94852235,66.2498216 2.03788528,66.480518 2.14794228,66.7015001 L41.5162606,145.748688 C42.3265353,147.375629 44.1318377,148.251763 45.9113042,147.881653 L192.910728,117.307338 C194.474289,116.982134 195.694574,115.758043 196.014909,114.193477 L218.074513,6.45084644 C218.517628,4.28660417 217.122378,2.17292384 214.958136,1.72980929 C214.329433,1.60108655 213.678989,1.62552248 213.061716,1.80105402 Z" id="Path-2" fill="url(#linearGradient-3)"></path>
+                            <path d="M197.072528,20.4113039 L24.2548787,69.2229839 C22.4234469,69.7402648 21.358117,71.6442726 21.8753979,73.4757045 C21.9276012,73.6605301 21.9951651,73.8406677 22.0773839,74.0142354 L49.789049,132.514901 C50.4776487,133.968569 52.0803658,134.752445 53.6505853,134.403549 L181.853061,105.917515 C183.168186,105.6253 184.192408,104.593468 184.474879,103.276216 L201.378387,24.4499041 C201.777413,22.5891245 200.592427,20.7571905 198.731647,20.3581651 C198.18254,20.2404146 197.612975,20.2586568 197.072528,20.4113039 Z" id="Path-2" stroke="#C4EBFF" stroke-width="2"></path>
+                        </g>
+                        <g id="10%" fill="#FFFFFF" fill-opacity="1">
+                            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                            <use xlink:href="#text-4"></use>
+                        </g>
+                        <polygon id="Path-8" fill="#3D3494" points="120.598229 28.5009766 127.091107 20.4616048 182.152387 10.5353728"></polygon>
+                        <polygon id="Path-9" fill="#3D3494" points="200.959034 86.8958689 212.407354 76.9281705 211.632235 27.7208439"></polygon>
+                        <polygon id="Path-7" fill="#C4EBFF" points="127.091107 20.4616048 212.407354 76.9281705 215.547044 29.8140022 174.331343 6"></polygon>
+                        <text id="off-now" transform="translate(185.000000, 31.500000) rotate(32.000000) translate(-185.000000, -31.500000) " font-family="YouSheBiaoTiHei" font-size="22" font-weight="normal" fill="#3D3494">
+                            <tspan x="168.088" y="36">off </tspan>
+                            <tspan x="157" y="49.7700806" line-spacing="8"> now</tspan>
+                        </text>
+                        <g id="discount" transform="translate(140.000000, 155.000000) rotate(11.000000) translate(-140.000000, -155.000000) " fill="#333333" fill-opacity="1">
+                            <use filter="url(#filter-7)" xlink:href="#text-6"></use>
+                            <use xlink:href="#text-6"></use>
+                        </g>
+                        <polygon id="Path-10" fill-opacity="0.5" fill="#6657B9" points="132.454102 24.2148438 120.598229 27.7208439 210.990234 76.9281705 204.248047 71.0517578"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

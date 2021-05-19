@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="645px" height="185px" viewBox="0 0 645 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFF8D5" offset="0%"></stop>
+            <stop stop-color="#FFB43E" offset="100%"></stop>
+        </linearGradient>
+        <path d="M25.8276836,192.748709 L36.0327684,120 L1.88983051,124.774527 L0,137.841652 L9.82711864,136.459552 L1.88983051,192.748709 L25.8276836,192.748709 Z M111.122034,192.748709 C113.557815,192.748709 115.699623,191.932014 117.547458,190.298623 C119.395292,188.665232 120.52919,186.633964 120.949153,184.204819 L120.949153,184.204819 L129.768362,121.256454 L66.6480226,121.256454 C64.2122411,121.256454 62.049435,122.07315 60.1596045,123.70654 C58.269774,125.339931 57.1568738,127.371199 56.820904,129.800344 L56.820904,129.800344 L48.0016949,192.748709 L111.122034,192.748709 Z M97.3892655,180.812392 L73.5774011,180.812392 L80.380791,133.067126 L104.192655,133.067126 L97.3892655,180.812392 Z M160.257627,193 L185.959322,163.598967 L182.179661,190.612737 L215.566667,190.612737 L219.598305,161.965577 L187.471186,161.965577 L223,121.3821 L199.062147,121.3821 L201.455932,124.146299 L178.148023,150.783133 L181.927684,123.769363 L148.540678,123.769363 L144.50904,152.416523 L176.636158,152.416523 L141.107345,193 L160.257627,193 Z M164.919209,142.86747 L160.131638,142.86747 L161.391525,133.318417 L166.179096,133.318417 L164.919209,142.86747 Z M202.589831,181.063683 L197.80226,181.063683 L199.188136,171.51463 L203.975706,171.51463 L202.589831,181.063683 Z" id="path-2"></path>
+        <filter x="-2.2%" y="-6.6%" width="107.5%" height="116.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="5" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.835294118   0 0 0 0 0.00784313725   0 0 0 0 0.00784313725  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFF8D5" offset="0%"></stop>
+            <stop stop-color="#FCAF36" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-5" font-family="YouSheBiaoTiHei" font-size="153" font-weight="normal" line-spacing="120">
+            <tspan x="436" y="153">1</tspan>
+        </text>
+        <filter x="-7.5%" y="-3.8%" width="123.3%" height="110.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="5" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.835294118   0 0 0 0 0.00784313725   0 0 0 0 0.00784313725  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10%折扣页" transform="translate(-257.000000, -194.000000)">
+            <g id="Group-11" transform="translate(260.000000, 181.000000)">
+                <text id="for" font-family="Raleway-SemiBold, Raleway" font-size="36" font-weight="500" fill="#CD3E46">
+                    <tspan x="375" y="95">for</tspan>
+                </text>
+                <text id="PDFmaster" font-family="PangMenZhengDao" font-size="80" font-weight="normal" line-spacing="85" fill="#FFFFFF">
+                    <tspan x="4" y="98">PDF</tspan>
+                    <tspan x="165.92" y="102.800049" font-family="PingFangSC-Regular, PingFang SC" font-size="60">master</tspan>
+                </text>
+                <text id="OFF-NOW!!!" font-family="Raleway-Black, Raleway" font-size="68" font-weight="700" fill="#C70717">
+                    <tspan x="240" y="185">OFF NOW!!!</tspan>
+                </text>
+                <g id="10%" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use stroke="#DF4A55" stroke-width="4" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="1">
+                    <use stroke="#DF4A55" fill="#D8D8D8" fill-opacity="1" stroke-width="4" stroke-opacity="1" filter="url(#filter-6)" xlink:href="#text-5"></use>
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#text-5"></use>
+                    <use stroke="#DF4A55" stroke-width="4" xlink:href="#text-5"></use>
+                </g>
+                <text id="YEAR" font-family="ChalkboardSE-Regular, Chalkboard SE" font-size="60" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="501" y="97">YEAR</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

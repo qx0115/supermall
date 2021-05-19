@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="118px" viewBox="0 0 117 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.19409582%" y1="49.7244008%" x2="98.8059042%" y2="49.7244008%" id="linearGradient-1">
+            <stop stop-color="#F75F68" stop-opacity="0.607654065" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.275650131" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.14720826">
+        <g id="折扣页icon切图" transform="translate(-728.000000, -181.000000)" fill="#FCC052" fill-rule="nonzero" stroke="url(#linearGradient-1)">
+            <path d="M786.515473,297.782694 C819.962807,297.784968 844.394569,271.859362 844.392395,239.876457 C844.390221,207.893553 816.025624,178.009685 786.5076,181.962351 C756.989577,185.915018 724.172954,204.903816 728.630679,239.868588 C733.088403,274.833361 753.068139,297.78042 786.515473,297.782694 Z" id="Shape" transform="translate(786.307057, 239.696072) rotate(39.000000) translate(-786.307057, -239.696072) "></path>
+        </g>
+    </g>
+</svg>
